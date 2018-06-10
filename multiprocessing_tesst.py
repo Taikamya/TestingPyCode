@@ -37,7 +37,7 @@ def main():
     '''
     Main function.
     '''
-    time_and_exec(func_lamb, 'Lambs')
+    time_and_exec(func_lamb, 'Lamb')
     time_and_exec(func_lc, 'LC')
     print('All Done!')
 
